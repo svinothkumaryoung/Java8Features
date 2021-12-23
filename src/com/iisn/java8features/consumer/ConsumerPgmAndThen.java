@@ -1,3 +1,5 @@
+package com.iisn.java8features.consumer;
+
 import java.util.function.Consumer;
 
 public class ConsumerPgmAndThen {

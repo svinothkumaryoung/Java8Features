@@ -1,3 +1,5 @@
+package com.iisn.java8features.predicate;
+
 import java.util.function.Predicate;
 
 public class Predicate1 {

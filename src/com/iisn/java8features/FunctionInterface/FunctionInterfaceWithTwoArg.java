@@ -1,4 +1,4 @@
-import java.util.Scanner;
+package com.iisn.java8features.FunctionInterface;
 
 interface inter{
     void getData(String n,int m);

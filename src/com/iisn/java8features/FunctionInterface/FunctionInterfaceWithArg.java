@@ -1,3 +1,5 @@
+package com.iisn.java8features.FunctionInterface;
+
 interface in1
 {
     void getData(String n);

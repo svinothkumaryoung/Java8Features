@@ -1,3 +1,5 @@
+package com.iisn.java8features.FunctionInterface;
+
 public class StudentDetails {
     static inter1 i=()->
     {
