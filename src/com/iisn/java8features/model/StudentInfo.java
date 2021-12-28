@@ -67,4 +67,16 @@ public class StudentInfo {
     public void setZipCode(int zipCode) {
         ZipCode = zipCode;
     }
+
+    @Override
+    public String toString() {
+        return "StudentInfo{" +
+                "registerNo=" + registerNo +
+                ", name='" + name + '\'' +
+                ", Address='" + Address + '\'' +
+                ", city='" + city + '\'' +
+                ", Country='" + Country + '\'' +
+                ", ZipCode=" + ZipCode +
+                '}';
+    }
 }
